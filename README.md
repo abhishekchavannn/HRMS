@@ -1,7 +1,9 @@
-# Human Resource Management system
+# Human Resource Management system 👨‍💻
 
 ### Mini group project 
 
+## Language:
+C programming Language
 
 ## Abstract 
 Human Resource Management system(HRMS) is a project developed for software companies to
@@ -39,8 +41,7 @@ technical work details that are carried out in organizations.
 
 <em> Flowcharts and more details are available in the report </em>
 
-## Language:
-C programming Language
+
 
 
 
